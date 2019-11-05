@@ -1,0 +1,23 @@
+{
+    "name": "Mustafa Hassan",
+    "website": "https://mh2795.github.io/",
+    "linkedin": "https://www.linkedin.com/in/mh2795/",
+    "github": "mh2795",
+    "email": "mustafawhassan@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Network+"
+    ]
+}
